@@ -1,0 +1,13 @@
+name: basic_flow
+seed: 101
+steps:
+  - {op: chatter, room: ldn-cds-1, sender: jpm_cds}
+  - {op: quote, room: ldn-cds-1, sender: jpm_cds, instrument: ITRAXX_EUR_MAIN, tenor: 5Y, bid: 58, offer: 58.5, size: 10}
+  - {op: quote, room: ldn-cds-1, sender: gs_flow, instrument: ITRAXX_EUR_XOVER, tenor: 5Y, bid: 302, offer: 304, size: 5}
+  - {op: one_sided, room: ldn-cds-1, sender: bnp_cds, instrument: CDX_NA_IG, tenor: 5Y, side: bid, level: 52.25}
+  - {op: shift, room: ldn-cds-1, sender: jpm_cds, bp: 1}
+  - {op: trade, room: ldn-cds-1, sender: gs_flow}
+  - {op: quote, room: ldn-cds-2, sender: citi_ix, instrument: CDX_NA_HY, tenor: 5Y, bid: 104.5, offer: 104.625}
+  - {op: axe, room: ldn-cds-2, sender: citi_ix, instrument: ITRAXX_EUR_MAIN, tenor: 5Y, direction: buy_protection, size: 25}
+  - {op: interest, room: ldn-cds-2, sender: bnp_cds, client: Alder Capital, instrument: VOLKSWAGEN_AG, tenor: 5Y, direction: sell_protection}
+  - {op: refer, room: ldn-cds-1, sender: bnp_cds}

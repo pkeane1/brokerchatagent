@@ -1,0 +1,30 @@
+{"id":"m001","ts":"2026-10-01T08:01:24Z","room":"ldn-cds-2","sender":"gs_flow","text":"XOVER 3Y 178/180 5x5"}
+{"id":"m002","ts":"2026-10-01T08:02:27Z","room":"ldn-cds-1","sender":"citi_ix","text":"Db 3y 57/62 25x25"}
+{"id":"m003","ts":"2026-10-01T08:07:06Z","room":"ldn-cds-2","sender":"gs_flow","text":"done at 178"}
+{"id":"m004","ts":"2026-10-01T08:07:41Z","room":"ldn-cds-1","sender":"bnp_cds","text":"VW 10yr 180/185 25x25"}
+{"id":"m005","ts":"2026-10-01T08:12:14Z","room":"ldn-cds-2","sender":"jpm_cds","text":"we're axed to sell protection in TSCO 3Y, 50mm"}
+{"id":"m006","ts":"2026-10-01T08:14:12Z","room":"ldn-cds-1","sender":"jpm_cds","text":"lunch?"}
+{"id":"m007","ts":"2026-10-01T08:14:42Z","room":"ldn-cds-2","sender":"gs_flow","text":"axed to buy protection volkswagen 5Y 50mm"}
+{"id":"m008","ts":"2026-10-01T08:16:00Z","room":"ldn-cds-2","sender":"gs_flow","text":"Crossover 10Y 452/454, TSCO 10yr 121/126"}
+{"id":"m009","ts":"2026-10-01T08:21:37Z","room":"ldn-cds-2","sender":"gs_flow","text":"crossover 3y 184 offer"}
+{"id":"m010","ts":"2026-10-01T08:24:50Z","room":"ldn-cds-2","sender":"gs_flow","text":"axed to sell protection cdx ig 5yr 50mm"}
+{"id":"m011","ts":"2026-10-01T08:29:24Z","room":"ldn-cds-1","sender":"gs_flow","text":"Ig 5y 49/49.5 10x10"}
+{"id":"m012","ts":"2026-10-01T08:34:54Z","room":"ldn-cds-2","sender":"jpm_cds","text":"Cdx.Hy 5y offered at 104.625"}
+{"id":"m013","ts":"2026-10-01T08:41:13Z","room":"ldn-cds-2","sender":"gs_flow","text":"139 bid for Db 10y"}
+{"id":"m014","ts":"2026-10-01T08:43:12Z","room":"desk-misc","sender":"gs_flow","text":"116/117 5x5"}
+{"id":"m015","ts":"2026-10-01T08:49:45Z","room":"ldn-cds-2","sender":"bnp_cds","text":"Tesco 5Y 81/86 25x25"}
+{"id":"m016","ts":"2026-10-01T08:52:31Z","room":"ldn-cds-1","sender":"citi_ix","text":"MFNX 5Y 144/146"}
+{"id":"m017","ts":"2026-10-01T08:55:53Z","room":"ldn-cds-1","sender":"bnp_cds","text":"cxl that"}
+{"id":"m018","ts":"2026-10-01T08:57:22Z","room":"ldn-cds-2","sender":"jpm_cds","text":"still good"}
+{"id":"m019","ts":"2026-10-01T09:03:41Z","room":"ldn-cds-1","sender":"gs_flow","text":"Itrx Main 5y 58/58.5, Cdx.Hy 5Y 103.875/104"}
+{"id":"m020","ts":"2026-10-01T09:06:39Z","room":"ldn-cds-2","sender":"bnp_cds","text":"axed to sell protection Cdx Ig 3Y 10mm"}
+{"id":"m021","ts":"2026-10-01T09:09:24Z","room":"ldn-cds-1","sender":"gs_flow","text":"XOVER 7yr 378/380 25x25"}
+{"id":"m022","ts":"2026-10-01T09:14:03Z","room":"ldn-cds-1","sender":"gs_flow","text":"Cdx.Hy 5y 105.375/105.5 5x5"}
+{"id":"m023","ts":"2026-10-01T09:19:02Z","room":"ldn-cds-2","sender":"jpm_cds","text":"out"}
+{"id":"m024","ts":"2026-10-01T09:22:18Z","room":"ldn-cds-2","sender":"gs_flow","text":"move 2bp wider"}
+{"id":"m025","ts":"2026-10-01T09:25:33Z","room":"ldn-cds-1","sender":"jpm_cds","text":"hy 5Y 103.875/104"}
+{"id":"m026","ts":"2026-10-01T09:29:29Z","room":"ldn-cds-1","sender":"jpm_cds","text":"DB 7y 122/127 25x25"}
+{"id":"m027","ts":"2026-10-01T09:33:01Z","room":"ldn-cds-1","sender":"jpm_cds","text":"tighter by 1"}
+{"id":"m028","ts":"2026-10-01T09:34:50Z","room":"ldn-cds-2","sender":"jpm_cds","text":"Deutsche 7Y 119/124 5x5"}
+{"id":"m029","ts":"2026-10-01T09:36:09Z","room":"ldn-cds-2","sender":"gs_flow","text":"7yr too 118/123"}
+{"id":"m030","ts":"2026-10-01T09:42:08Z","room":"ldn-cds-1","sender":"gs_flow","text":"still there"}

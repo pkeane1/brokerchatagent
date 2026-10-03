@@ -1,0 +1,32 @@
+# Instrument aliases as they appear in broker chat. Matching ignores case and repeated spaces.
+# PROVISIONAL: to be reviewed by a practising CDS broker (PRD §4, §11).
+tenors: [1Y, 2Y, 3Y, 4Y, 5Y, 7Y, 10Y]
+instruments:
+  - canonical: ITRAXX_EUR_MAIN
+    kind: index
+    unit: bp
+    aliases: [main, itrx main, itraxx main, europe main]
+  - canonical: ITRAXX_EUR_XOVER
+    kind: index
+    unit: bp
+    aliases: [xo, xover, crossover, itrx xo]
+  - canonical: CDX_NA_IG
+    kind: index
+    unit: bp
+    aliases: [ig, cdx ig, cdx.ig]
+  - canonical: CDX_NA_HY
+    kind: index
+    unit: price
+    aliases: [hy, cdx hy, cdx.hy]
+  - canonical: VOLKSWAGEN_AG
+    kind: single_name
+    unit: bp
+    aliases: [vw, volkswagen, vow]
+  - canonical: DEUTSCHE_BANK_AG
+    kind: single_name
+    unit: bp
+    aliases: [db, deutsche, dbk]
+  - canonical: TESCO_PLC
+    kind: single_name
+    unit: bp
+    aliases: [tesco, tsco]

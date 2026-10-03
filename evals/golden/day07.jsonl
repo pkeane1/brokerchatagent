@@ -1,0 +1,30 @@
+{"id":"m001","ts":"2026-10-01T08:00:57Z","room":"ldn-cds-1","sender":"citi_ix","text":"deutsche 3Y 54 bid"}
+{"id":"m002","ts":"2026-10-01T08:05:36Z","room":"ldn-cds-1","sender":"gs_flow","text":"MAIN 3yr offered at 35.5"}
+{"id":"m003","ts":"2026-10-01T08:09:38Z","room":"ldn-cds-1","sender":"citi_ix","text":"itrx main 3y 33/33.5"}
+{"id":"m004","ts":"2026-10-01T08:10:33Z","room":"ldn-cds-1","sender":"citi_ix","text":"+1"}
+{"id":"m005","ts":"2026-10-01T08:11:39Z","room":"ldn-cds-1","sender":"citi_ix","text":"off that"}
+{"id":"m006","ts":"2026-10-01T08:15:36Z","room":"ldn-cds-1","sender":"gs_flow","text":"cxl that"}
+{"id":"m007","ts":"2026-10-01T08:17:50Z","room":"ldn-cds-2","sender":"bnp_cds","text":"Hy 5y 105.25/105.375 10x10"}
+{"id":"m008","ts":"2026-10-01T08:18:35Z","room":"ldn-cds-1","sender":"gs_flow","text":"Main 7yr 73.5 offer"}
+{"id":"m009","ts":"2026-10-01T08:19:18Z","room":"ldn-cds-2","sender":"bnp_cds","text":"gm"}
+{"id":"m010","ts":"2026-10-01T08:20:51Z","room":"ldn-cds-2","sender":"gs_flow","text":"TESCO 7Y 98/103 25x25"}
+{"id":"m011","ts":"2026-10-01T08:22:11Z","room":"ldn-cds-2","sender":"gs_flow","text":"cxl that"}
+{"id":"m012","ts":"2026-10-01T08:27:17Z","room":"ldn-cds-1","sender":"gs_flow","text":"unchanged"}
+{"id":"m013","ts":"2026-10-01T08:30:47Z","room":"ldn-cds-1","sender":"jpm_cds","text":"axed to sell protection dbk 7y 25mm"}
+{"id":"m014","ts":"2026-10-01T08:35:55Z","room":"ldn-cds-2","sender":"jpm_cds","text":"axed to sell protection Hy 5yr 10mm"}
+{"id":"m015","ts":"2026-10-01T08:41:31Z","room":"ldn-cds-1","sender":"gs_flow","text":"unch"}
+{"id":"m016","ts":"2026-10-01T08:46:23Z","room":"ldn-cds-1","sender":"citi_ix","text":"HY 5yr 105.375/105.5"}
+{"id":"m017","ts":"2026-10-01T08:51:42Z","room":"ldn-cds-2","sender":"bnp_cds","text":"ITRX XO 10Y 456/458 10x10"}
+{"id":"m018","ts":"2026-10-01T08:53:34Z","room":"ldn-cds-2","sender":"citi_ix","text":"axed to buy protection ITRX XO 5Y 10mm"}
+{"id":"m019","ts":"2026-10-01T08:58:48Z","room":"ldn-cds-1","sender":"jpm_cds","text":"cdx.hy 5y 104.125/104.25 10x10"}
+{"id":"m020","ts":"2026-10-01T09:02:03Z","room":"ldn-cds-1","sender":"citi_ix","text":"Volkswagen 7Y 151/156 10x10"}
+{"id":"m021","ts":"2026-10-01T09:05:57Z","room":"ldn-cds-1","sender":"citi_ix","text":"TSCO 10yr 120/125, hy 5yr 105/105.125"}
+{"id":"m022","ts":"2026-10-01T09:10:27Z","room":"ldn-cds-2","sender":"jpm_cds","text":"XOVER 3y 179/181 25x25"}
+{"id":"m023","ts":"2026-10-01T09:11:26Z","room":"ldn-cds-2","sender":"jpm_cds","text":"europe main 3yr 36/36.5 5x5"}
+{"id":"m024","ts":"2026-10-01T09:14:40Z","room":"ldn-cds-1","sender":"gs_flow","text":"wider by 2"}
+{"id":"m025","ts":"2026-10-01T09:19:14Z","room":"ldn-cds-2","sender":"bnp_cds","text":"VOW 7yr 150/155"}
+{"id":"m026","ts":"2026-10-01T09:20:21Z","room":"ldn-cds-2","sender":"citi_ix","text":"CDX.HY 5y 105.375/105.5 10x10"}
+{"id":"m027","ts":"2026-10-01T09:26:21Z","room":"ldn-cds-1","sender":"bnp_cds","text":"DEUTSCHE 7yr 119/124 5x5"}
+{"id":"m028","ts":"2026-10-01T09:27:12Z","room":"ldn-cds-1","sender":"gs_flow","text":"1 wider"}
+{"id":"m029","ts":"2026-10-01T09:33:31Z","room":"ldn-cds-1","sender":"citi_ix","text":"out"}
+{"id":"m030","ts":"2026-10-01T09:36:16Z","room":"ldn-cds-2","sender":"gs_flow","text":"have interest from Alder Capital to sell protection in Volkswagen 5yr"}

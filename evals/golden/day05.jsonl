@@ -1,0 +1,30 @@
+{"id":"m001","ts":"2026-10-01T08:06:13Z","room":"ldn-cds-2","sender":"jpm_cds","text":"Tsco 10Y 123/128 5x5"}
+{"id":"m002","ts":"2026-10-01T08:10:31Z","room":"ldn-cds-2","sender":"jpm_cds","text":"same in 3yr 48/53"}
+{"id":"m003","ts":"2026-10-01T08:16:23Z","room":"ldn-cds-2","sender":"jpm_cds","text":"move 1bp wider"}
+{"id":"m004","ts":"2026-10-01T08:19:53Z","room":"ldn-cds-2","sender":"gs_flow","text":"tesco 3y 46/51 25x25"}
+{"id":"m005","ts":"2026-10-01T08:24:51Z","room":"ldn-cds-1","sender":"jpm_cds","text":"itrx xo 5Y 300/302 5x5"}
+{"id":"m006","ts":"2026-10-01T08:25:17Z","room":"ldn-cds-1","sender":"gs_flow","text":"Xo 5y 302/304 10x10"}
+{"id":"m007","ts":"2026-10-01T08:27:10Z","room":"ldn-cds-2","sender":"gs_flow","text":"XOVER 7Y 375/377 10x10"}
+{"id":"m008","ts":"2026-10-01T08:32:46Z","room":"ldn-cds-1","sender":"bnp_cds","text":"europe main 7y offered at 71.5"}
+{"id":"m009","ts":"2026-10-01T08:34:13Z","room":"ldn-cds-2","sender":"gs_flow","text":"done at 377"}
+{"id":"m010","ts":"2026-10-01T08:35:57Z","room":"ldn-cds-1","sender":"bnp_cds","text":"axed to sell protection main 7y 10mm"}
+{"id":"m011","ts":"2026-10-01T08:38:45Z","room":"ldn-cds-1","sender":"jpm_cds","text":"move 2bp wider"}
+{"id":"m012","ts":"2026-10-01T08:44:52Z","room":"ldn-cds-1","sender":"gs_flow","text":"itraxx main 5yr 61/61.5 25x25"}
+{"id":"m013","ts":"2026-10-01T08:48:28Z","room":"ldn-cds-2","sender":"bnp_cds","text":"tesco 10yr offered at 122"}
+{"id":"m014","ts":"2026-10-01T08:48:59Z","room":"ldn-cds-1","sender":"citi_ix","text":"ty"}
+{"id":"m015","ts":"2026-10-01T08:51:34Z","room":"ldn-cds-2","sender":"gs_flow","text":"CDX IG 7y 67 bid"}
+{"id":"m016","ts":"2026-10-01T08:56:59Z","room":"ldn-cds-2","sender":"bnp_cds","text":"XO 3Y 183 bid"}
+{"id":"m017","ts":"2026-10-01T08:59:55Z","room":"ldn-cds-2","sender":"citi_ix","text":"we're axed to buy protection in crossover 3Y, 50mm"}
+{"id":"m018","ts":"2026-10-01T09:06:11Z","room":"ldn-cds-1","sender":"jpm_cds","text":"+1"}
+{"id":"m019","ts":"2026-10-01T09:10:37Z","room":"ldn-cds-1","sender":"gs_flow","text":"done at 61.5"}
+{"id":"m020","ts":"2026-10-01T09:13:08Z","room":"ldn-cds-2","sender":"gs_flow","text":"Cedar AM looking to sell protection Itrx Xo 5y"}
+{"id":"m021","ts":"2026-10-01T09:16:54Z","room":"ldn-cds-2","sender":"bnp_cds","text":"Xo 3Y 184/186 25x25"}
+{"id":"m022","ts":"2026-10-01T09:20:26Z","room":"ldn-cds-2","sender":"gs_flow","text":"Vw 10Y 185 offer"}
+{"id":"m023","ts":"2026-10-01T09:21:09Z","room":"ldn-cds-2","sender":"jpm_cds","text":"hit 49"}
+{"id":"m024","ts":"2026-10-01T09:23:01Z","room":"ldn-cds-2","sender":"bnp_cds","text":"out"}
+{"id":"m025","ts":"2026-10-01T09:25:26Z","room":"ldn-cds-2","sender":"gs_flow","text":"trades 185"}
+{"id":"m026","ts":"2026-10-01T09:30:14Z","room":"ldn-cds-2","sender":"bnp_cds","text":"have interest from Birch Partners to sell protection in TSCO 10yr"}
+{"id":"m027","ts":"2026-10-01T09:33:05Z","room":"ldn-cds-2","sender":"gs_flow","text":"VOLKSWAGEN 3y 73/78, Cdx.Hy 5Y 104.5/104.625"}
+{"id":"m028","ts":"2026-10-01T09:36:19Z","room":"ldn-cds-2","sender":"citi_ix","text":"IG 7y offered at 64.5"}
+{"id":"m029","ts":"2026-10-01T09:37:54Z","room":"ldn-cds-1","sender":"jpm_cds","text":"7s 377/379"}
+{"id":"m030","ts":"2026-10-01T09:40:35Z","room":"ldn-cds-2","sender":"citi_ix","text":"wider by 1"}

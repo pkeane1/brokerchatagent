@@ -1,0 +1,72 @@
+{
+  "name": "basic_flow",
+  "end_ts": "2026-10-01T08:28:29Z",
+  "quotes": [
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "citi_ix",
+      "bid": "104.5",
+      "offer": "104.625",
+      "unit": "price",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T08:20:22Z"
+    },
+    {
+      "instrument": "CDX_NA_IG",
+      "tenor": "5Y",
+      "source": "bnp_cds",
+      "bid": "52.25",
+      "offer": null,
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:28:29Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "5Y",
+      "source": "jpm_cds",
+      "bid": "59",
+      "offer": "59.5",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "live",
+      "updated_ts": "2026-10-01T08:17:19Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_XOVER",
+      "tenor": "5Y",
+      "source": "gs_flow",
+      "bid": "302",
+      "offer": "304",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "traded",
+      "updated_ts": "2026-10-01T08:18:24Z"
+    }
+  ],
+  "axes": [
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "5Y",
+      "direction": "buy_protection",
+      "size": "25",
+      "source": "citi_ix"
+    }
+  ],
+  "interests": [
+    {
+      "client": "Alder Capital",
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "direction": "sell_protection"
+    }
+  ],
+  "ambiguous_message_ids": []
+}

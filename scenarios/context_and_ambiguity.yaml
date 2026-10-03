@@ -1,0 +1,12 @@
+name: context_and_ambiguity
+seed: 202
+steps:
+  - {op: quote, room: ldn-cds-1, sender: jpm_cds, instrument: VOLKSWAGEN_AG, tenor: 5Y, bid: 120, offer: 125}
+  - {op: same_again, room: ldn-cds-1, sender: jpm_cds, tenor: 10Y, bid: 165, offer: 172}
+  - {op: unch, room: ldn-cds-1, sender: jpm_cds}
+  - {op: ambiguous_unknown, room: ldn-cds-1, sender: gs_flow, bid: 88, offer: 90}
+  - {op: ambiguous_no_context, sender: bnp_cds, bid: 61, offer: 62, size: 10}
+  - {op: quote, room: ldn-cds-2, sender: gs_flow, instrument: DEUTSCHE_BANK_AG, tenor: 5Y, bid: 95, offer: 100, size: 5}
+  - {op: refer, room: ldn-cds-2, sender: gs_flow}
+  - {op: quote, room: ldn-cds-2, sender: gs_flow, instrument: DEUTSCHE_BANK_AG, tenor: 5Y, bid: 96, offer: 101, size: 5}
+  - {op: chatter, room: ldn-cds-2, sender: citi_ix}

@@ -1,0 +1,180 @@
+{
+  "name": "day04",
+  "end_ts": "2026-10-01T09:38:44Z",
+  "quotes": [
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "citi_ix",
+      "bid": "104.000",
+      "offer": "104.125",
+      "unit": "price",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "traded",
+      "updated_ts": "2026-10-01T08:20:05Z"
+    },
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "gs_flow",
+      "bid": "104.250",
+      "offer": "104.375",
+      "unit": "price",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T09:18:11Z"
+    },
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "jpm_cds",
+      "bid": "105.000",
+      "offer": "105.125",
+      "unit": "price",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "referred",
+      "updated_ts": "2026-10-01T09:36:49Z"
+    },
+    {
+      "instrument": "CDX_NA_IG",
+      "tenor": "5Y",
+      "source": "citi_ix",
+      "bid": null,
+      "offer": "51.5",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "referred",
+      "updated_ts": "2026-10-01T09:00:24Z"
+    },
+    {
+      "instrument": "CDX_NA_IG",
+      "tenor": "5Y",
+      "source": "jpm_cds",
+      "bid": "49",
+      "offer": "49.5",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "stale",
+      "updated_ts": "2026-10-01T08:24:37Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "10Y",
+      "source": "jpm_cds",
+      "bid": "87",
+      "offer": "87.5",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "traded",
+      "updated_ts": "2026-10-01T08:43:44Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "7Y",
+      "source": "citi_ix",
+      "bid": "74",
+      "offer": null,
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T09:38:44Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_XOVER",
+      "tenor": "10Y",
+      "source": "bnp_cds",
+      "bid": "456",
+      "offer": "458",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "traded",
+      "updated_ts": "2026-10-01T08:54:44Z"
+    },
+    {
+      "instrument": "TESCO_PLC",
+      "tenor": "3Y",
+      "source": "bnp_cds",
+      "bid": "46",
+      "offer": "51",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:34:19Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "3Y",
+      "source": "gs_flow",
+      "bid": "73",
+      "offer": "78",
+      "unit": "bp",
+      "bid_size": "25",
+      "offer_size": "25",
+      "status": "referred",
+      "updated_ts": "2026-10-01T09:15:30Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "source": "citi_ix",
+      "bid": "118",
+      "offer": "123",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:38:41Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "source": "gs_flow",
+      "bid": "123",
+      "offer": "128",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "referred",
+      "updated_ts": "2026-10-01T09:29:16Z"
+    }
+  ],
+  "axes": [
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "7Y",
+      "direction": "buy_protection",
+      "size": "25",
+      "source": "gs_flow"
+    }
+  ],
+  "interests": [
+    {
+      "client": "Cedar AM",
+      "instrument": "CDX_NA_IG",
+      "tenor": "7Y",
+      "direction": "sell_protection"
+    },
+    {
+      "client": "Alder Capital",
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "direction": "buy_protection"
+    },
+    {
+      "client": "Cedar AM",
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "direction": "sell_protection"
+    }
+  ],
+  "ambiguous_message_ids": []
+}

@@ -1,0 +1,30 @@
+{"id":"m001","ts":"2026-10-01T08:06:29Z","room":"ldn-cds-1","sender":"citi_ix","text":"HY 5y 104/104.125"}
+{"id":"m002","ts":"2026-10-01T08:07:35Z","room":"ldn-cds-2","sender":"bnp_cds","text":"TSCO 3y 46/51 10x10"}
+{"id":"m003","ts":"2026-10-01T08:12:36Z","room":"ldn-cds-1","sender":"jpm_cds","text":"ig 5Y 49/49.5 10x10"}
+{"id":"m004","ts":"2026-10-01T08:15:17Z","room":"ldn-cds-1","sender":"gs_flow","text":"have interest from Cedar AM to sell protection in cdx ig 7y"}
+{"id":"m005","ts":"2026-10-01T08:17:26Z","room":"ldn-cds-2","sender":"citi_ix","text":"vw 5Y 118/123 5x5"}
+{"id":"m006","ts":"2026-10-01T08:20:05Z","room":"ldn-cds-1","sender":"citi_ix","text":"dealt 104"}
+{"id":"m007","ts":"2026-10-01T08:21:49Z","room":"ldn-cds-1","sender":"citi_ix","text":"gm"}
+{"id":"m008","ts":"2026-10-01T08:24:37Z","room":"ldn-cds-1","sender":"jpm_cds","text":"unchanged"}
+{"id":"m009","ts":"2026-10-01T08:27:49Z","room":"ldn-cds-1","sender":"jpm_cds","text":"itraxx main 10yr 89/89.5 10x10"}
+{"id":"m010","ts":"2026-10-01T08:32:28Z","room":"ldn-cds-1","sender":"jpm_cds","text":"-2"}
+{"id":"m011","ts":"2026-10-01T08:34:19Z","room":"ldn-cds-2","sender":"bnp_cds","text":"off that"}
+{"id":"m012","ts":"2026-10-01T08:38:41Z","room":"ldn-cds-2","sender":"citi_ix","text":"off that"}
+{"id":"m013","ts":"2026-10-01T08:39:04Z","room":"ldn-cds-2","sender":"gs_flow","text":"we're axed to buy protection in itraxx main 7yr, 25mm"}
+{"id":"m014","ts":"2026-10-01T08:43:44Z","room":"ldn-cds-1","sender":"jpm_cds","text":"dealt 87.5"}
+{"id":"m015","ts":"2026-10-01T08:49:10Z","room":"ldn-cds-2","sender":"bnp_cds","text":"XOVER 10Y 456/458"}
+{"id":"m016","ts":"2026-10-01T08:51:29Z","room":"ldn-cds-1","sender":"citi_ix","text":"CDX IG 5Y offered at 51.5"}
+{"id":"m017","ts":"2026-10-01T08:54:01Z","room":"ldn-cds-1","sender":"citi_ix","text":"unchanged"}
+{"id":"m018","ts":"2026-10-01T08:54:44Z","room":"ldn-cds-2","sender":"bnp_cds","text":"trades 456"}
+{"id":"m019","ts":"2026-10-01T09:00:24Z","room":"ldn-cds-1","sender":"citi_ix","text":"refer that"}
+{"id":"m020","ts":"2026-10-01T09:06:15Z","room":"ldn-cds-1","sender":"gs_flow","text":"Volkswagen 3yr 73/78 25x25"}
+{"id":"m021","ts":"2026-10-01T09:12:33Z","room":"ldn-cds-1","sender":"gs_flow","text":"still good"}
+{"id":"m022","ts":"2026-10-01T09:13:27Z","room":"ldn-cds-2","sender":"gs_flow","text":"Alder Capital looking to buy protection cdx hy 5yr"}
+{"id":"m023","ts":"2026-10-01T09:15:30Z","room":"ldn-cds-1","sender":"gs_flow","text":"refer that"}
+{"id":"m024","ts":"2026-10-01T09:18:11Z","room":"ldn-cds-2","sender":"gs_flow","text":"Cdx.Hy 5Y 104.25/104.375"}
+{"id":"m025","ts":"2026-10-01T09:23:32Z","room":"ldn-cds-2","sender":"gs_flow","text":"VW 5Y 123/128 5x5"}
+{"id":"m026","ts":"2026-10-01T09:29:16Z","room":"ldn-cds-2","sender":"gs_flow","text":"pulled"}
+{"id":"m027","ts":"2026-10-01T09:30:27Z","room":"ldn-cds-2","sender":"jpm_cds","text":"cdx.hy 5Y 105/105.125"}
+{"id":"m028","ts":"2026-10-01T09:36:49Z","room":"ldn-cds-2","sender":"jpm_cds","text":"refer"}
+{"id":"m029","ts":"2026-10-01T09:38:11Z","room":"ldn-cds-2","sender":"citi_ix","text":"Cedar AM looking to sell protection VW 5yr"}
+{"id":"m030","ts":"2026-10-01T09:38:44Z","room":"ldn-cds-2","sender":"citi_ix","text":"74 bid for itraxx main 7Y"}

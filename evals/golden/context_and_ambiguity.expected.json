@@ -1,0 +1,48 @@
+{
+  "name": "context_and_ambiguity",
+  "end_ts": "2026-10-01T08:28:40Z",
+  "quotes": [
+    {
+      "instrument": "DEUTSCHE_BANK_AG",
+      "tenor": "5Y",
+      "source": "gs_flow",
+      "bid": "96",
+      "offer": "101",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "live",
+      "updated_ts": "2026-10-01T08:25:33Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "10Y",
+      "source": "jpm_cds",
+      "bid": "165",
+      "offer": "172",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T08:10:43Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "source": "jpm_cds",
+      "bid": "120",
+      "offer": "125",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T08:03:49Z"
+    }
+  ],
+  "axes": [],
+  "interests": [],
+  "ambiguous_message_ids": [
+    "m004",
+    "m005"
+  ]
+}

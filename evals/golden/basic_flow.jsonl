@@ -1,0 +1,10 @@
+{"id":"m001","ts":"2026-10-01T08:01:59Z","room":"ldn-cds-1","sender":"jpm_cds","text":"lunch?"}
+{"id":"m002","ts":"2026-10-01T08:07:58Z","room":"ldn-cds-1","sender":"jpm_cds","text":"ITRAXX MAIN 5y 58/58.5 10x10"}
+{"id":"m003","ts":"2026-10-01T08:10:45Z","room":"ldn-cds-1","sender":"gs_flow","text":"Xover 5y 302/304 5x5"}
+{"id":"m004","ts":"2026-10-01T08:14:49Z","room":"ldn-cds-1","sender":"bnp_cds","text":"52.25 bid for Cdx Ig 5y"}
+{"id":"m005","ts":"2026-10-01T08:17:19Z","room":"ldn-cds-1","sender":"jpm_cds","text":"1 wider"}
+{"id":"m006","ts":"2026-10-01T08:18:24Z","room":"ldn-cds-1","sender":"gs_flow","text":"done at 302"}
+{"id":"m007","ts":"2026-10-01T08:20:22Z","room":"ldn-cds-2","sender":"citi_ix","text":"Cdx Hy 5Y 104.5/104.625"}
+{"id":"m008","ts":"2026-10-01T08:24:18Z","room":"ldn-cds-2","sender":"citi_ix","text":"we're axed to buy protection in EUROPE MAIN 5y, 25mm"}
+{"id":"m009","ts":"2026-10-01T08:27:13Z","room":"ldn-cds-2","sender":"bnp_cds","text":"have interest from Alder Capital to sell protection in vw 5Y"}
+{"id":"m010","ts":"2026-10-01T08:28:29Z","room":"ldn-cds-1","sender":"bnp_cds","text":"off that"}

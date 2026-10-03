@@ -1,0 +1,20 @@
+{"id":"h01","ts":"2026-10-01T08:00:05Z","room":"ldn-cds-1","sender":"jpm_cds","text":"morning all"}
+{"id":"h02","ts":"2026-10-01T08:01:10Z","room":"ldn-cds-1","sender":"jpm_cds","text":"ITRX Main 5y 58/58.5 10x10"}
+{"id":"h03","ts":"2026-10-01T08:02:30Z","room":"ldn-cds-1","sender":"gs_flow","text":"XO 5y 302/304 5x5"}
+{"id":"h04","ts":"2026-10-01T08:03:00Z","room":"ldn-cds-1","sender":"bnp_cds","text":"CDX IG 5y 52.25 bid"}
+{"id":"h05","ts":"2026-10-01T08:04:45Z","room":"ldn-cds-2","sender":"citi_ix","text":"cdx hy 5y 104.5/104.625"}
+{"id":"h06","ts":"2026-10-01T08:06:00Z","room":"ldn-cds-1","sender":"jpm_cds","text":"same in 10y 84/85"}
+{"id":"h07","ts":"2026-10-01T08:07:20Z","room":"ldn-cds-1","sender":"gs_flow","text":"who's axed XO?"}
+{"id":"h08","ts":"2026-10-01T08:08:00Z","room":"ldn-cds-1","sender":"bnp_cds","text":"axed to buy protection XO 5y 25mm"}
+{"id":"h09","ts":"2026-10-01T08:09:15Z","room":"ldn-cds-2","sender":"citi_ix","text":"VW 5y 120/125"}
+{"id":"h10","ts":"2026-10-01T08:10:00Z","room":"ldn-cds-2","sender":"citi_ix","text":"refer"}
+{"id":"h11","ts":"2026-10-01T08:11:30Z","room":"ldn-cds-1","sender":"gs_flow","text":"1 tighter"}
+{"id":"h12","ts":"2026-10-01T08:12:40Z","room":"ldn-cds-1","sender":"jpm_cds","text":"10y unch"}
+{"id":"h13","ts":"2026-10-01T08:14:00Z","room":"ldn-cds-2","sender":"bnp_cds","text":"Alder Capital looking to sell protection VW 5y"}
+{"id":"h14","ts":"2026-10-01T08:15:20Z","room":"ldn-cds-1","sender":"gs_flow","text":"trades 301"}
+{"id":"h15","ts":"2026-10-01T08:16:00Z","room":"ldn-cds-1","sender":"citi_ix","text":"Main 7y 72/73 25x25"}
+{"id":"h16","ts":"2026-10-01T08:17:30Z","room":"ldn-cds-2","sender":"jpm_cds","text":"DB 5y 95/100"}
+{"id":"h17","ts":"2026-10-01T08:18:10Z","room":"ldn-cds-2","sender":"jpm_cds","text":"off that"}
+{"id":"h18","ts":"2026-10-01T08:19:00Z","room":"desk-misc","sender":"bnp_cds","text":"61/62 10x10"}
+{"id":"h19","ts":"2026-10-01T08:20:30Z","room":"ldn-cds-1","sender":"gs_flow","text":"ZXQ 5y 88/90"}
+{"id":"h20","ts":"2026-10-01T08:22:00Z","room":"ldn-cds-1","sender":"jpm_cds","text":"ty"}

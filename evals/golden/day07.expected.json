@@ -1,0 +1,220 @@
+{
+  "name": "day07",
+  "end_ts": "2026-10-01T09:36:16Z",
+  "quotes": [
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "bnp_cds",
+      "bid": "105.250",
+      "offer": "105.375",
+      "unit": "price",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "stale",
+      "updated_ts": "2026-10-01T08:17:50Z"
+    },
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "citi_ix",
+      "bid": "105.375",
+      "offer": "105.500",
+      "unit": "price",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "live",
+      "updated_ts": "2026-10-01T09:20:21Z"
+    },
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "source": "jpm_cds",
+      "bid": "104.125",
+      "offer": "104.250",
+      "unit": "price",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "stale",
+      "updated_ts": "2026-10-01T08:58:48Z"
+    },
+    {
+      "instrument": "DEUTSCHE_BANK_AG",
+      "tenor": "3Y",
+      "source": "citi_ix",
+      "bid": "54",
+      "offer": null,
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "stale",
+      "updated_ts": "2026-10-01T08:00:57Z"
+    },
+    {
+      "instrument": "DEUTSCHE_BANK_AG",
+      "tenor": "7Y",
+      "source": "bnp_cds",
+      "bid": "119",
+      "offer": "124",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "live",
+      "updated_ts": "2026-10-01T09:26:21Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "3Y",
+      "source": "citi_ix",
+      "bid": "34",
+      "offer": "34.5",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:11:39Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "3Y",
+      "source": "gs_flow",
+      "bid": null,
+      "offer": "35.5",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:15:36Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "3Y",
+      "source": "jpm_cds",
+      "bid": "36",
+      "offer": "36.5",
+      "unit": "bp",
+      "bid_size": "5",
+      "offer_size": "5",
+      "status": "live",
+      "updated_ts": "2026-10-01T09:11:26Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_MAIN",
+      "tenor": "7Y",
+      "source": "gs_flow",
+      "bid": null,
+      "offer": "76.5",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T09:27:12Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_XOVER",
+      "tenor": "10Y",
+      "source": "bnp_cds",
+      "bid": "456",
+      "offer": "458",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "stale",
+      "updated_ts": "2026-10-01T08:51:42Z"
+    },
+    {
+      "instrument": "ITRAXX_EUR_XOVER",
+      "tenor": "3Y",
+      "source": "jpm_cds",
+      "bid": "179",
+      "offer": "181",
+      "unit": "bp",
+      "bid_size": "25",
+      "offer_size": "25",
+      "status": "live",
+      "updated_ts": "2026-10-01T09:10:27Z"
+    },
+    {
+      "instrument": "TESCO_PLC",
+      "tenor": "10Y",
+      "source": "citi_ix",
+      "bid": "120",
+      "offer": "125",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "stale",
+      "updated_ts": "2026-10-01T09:05:57Z"
+    },
+    {
+      "instrument": "TESCO_PLC",
+      "tenor": "7Y",
+      "source": "gs_flow",
+      "bid": "98",
+      "offer": "103",
+      "unit": "bp",
+      "bid_size": "25",
+      "offer_size": "25",
+      "status": "referred",
+      "updated_ts": "2026-10-01T08:22:11Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "7Y",
+      "source": "bnp_cds",
+      "bid": "150",
+      "offer": "155",
+      "unit": "bp",
+      "bid_size": null,
+      "offer_size": null,
+      "status": "live",
+      "updated_ts": "2026-10-01T09:19:14Z"
+    },
+    {
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "7Y",
+      "source": "citi_ix",
+      "bid": "151",
+      "offer": "156",
+      "unit": "bp",
+      "bid_size": "10",
+      "offer_size": "10",
+      "status": "stale",
+      "updated_ts": "2026-10-01T09:02:03Z"
+    }
+  ],
+  "axes": [
+    {
+      "instrument": "DEUTSCHE_BANK_AG",
+      "tenor": "7Y",
+      "direction": "sell_protection",
+      "size": "25",
+      "source": "jpm_cds"
+    },
+    {
+      "instrument": "CDX_NA_HY",
+      "tenor": "5Y",
+      "direction": "sell_protection",
+      "size": "10",
+      "source": "jpm_cds"
+    },
+    {
+      "instrument": "ITRAXX_EUR_XOVER",
+      "tenor": "5Y",
+      "direction": "buy_protection",
+      "size": "10",
+      "source": "citi_ix"
+    }
+  ],
+  "interests": [
+    {
+      "client": "Alder Capital",
+      "instrument": "VOLKSWAGEN_AG",
+      "tenor": "5Y",
+      "direction": "sell_protection"
+    }
+  ],
+  "ambiguous_message_ids": [
+    "m029"
+  ]
+}
